@@ -1,6 +1,7 @@
 The assignment details were as follows:
 
 Find a data set to perform binary classification. Follow the tasks below and prepare a presentation of the results. The presentation should be no more than 10 minutes.
+
 1.Give a brief introduction to the data and problem.
 
 2.Familiarize yourself with the data. Fix any inconsistencies or missing values that may exist (you can use any software for this). How these were fixed should be briefly mentioned and motivated in your presentation.
